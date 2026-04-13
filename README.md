@@ -37,6 +37,11 @@ I used complex DAX to overcome data modeling challenges, including:
 
 ## 📈 Dashboard Preview
 <img width="480" height="269" alt="1" src="https://github.com/user-attachments/assets/0e6c2a21-dfb9-4875-9a5a-adb61e7af7e8" />
+<img width="480" height="268" alt="2" src="https://github.com/user-attachments/assets/456a38d1-fd47-4495-9991-89894643303a" />
+<img width="482" height="270" alt="6" src="https://github.com/user-attachments/assets/8ac0be92-2e40-4cee-ba84-c2db91f18179" />
+<img width="480" height="268" alt="5" src="https://github.com/user-attachments/assets/527a928c-8084-4d7e-ad14-05821d437fb4" />
+<img width="477" height="267" alt="4" src="https://github.com/user-attachments/assets/509cc7f8-c98d-4269-9065-a6238bee3a14" />
+<img width="479" height="269" alt="3" src="https://github.com/user-attachments/assets/acb3a5e2-5af9-4b51-b2f9-0e1219175c60" />
 
 
 
