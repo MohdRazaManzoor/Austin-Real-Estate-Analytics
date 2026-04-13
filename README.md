@@ -36,6 +36,7 @@ I used complex DAX to overcome data modeling challenges, including:
   * **Dynamic Labels:** Creating smart card visuals that display text like "Mostly 1-2 Story" based on the data's statistical mode.
 
 ## 📈 Dashboard Preview
+<img width="480" height="269" alt="1" src="https://github.com/user-attachments/assets/0e6c2a21-dfb9-4875-9a5a-adb61e7af7e8" />
 
 
 
